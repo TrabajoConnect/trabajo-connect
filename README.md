@@ -1,6 +1,6 @@
 # TrabajoConnect
 
-![TrabajoConnect Logo](https://github.com/TrabajoConnect/TrabajoConnect/blob/main/assets/logo.png)
+![TrabajoConnect Logo](https://github.com/TrabajoConnect/trabajo-connect/blob/main/Copilot_20250618_141537%20(1).png)
 
 **TrabajoConnect** es una plataforma digital pensada para mejorar la calidad de vida en la República Dominicana, conectando personas que necesitan ayuda técnica con profesionales confiables y disponibles. Desde niñeras por un día hasta electricistas calificados, nuestra misión es facilitar el acceso a servicios cotidianos de forma fácil, rápida y segura.
 
@@ -56,7 +56,7 @@ Todo el código fuente y documentación técnica del proyecto está en nuestro r
 
 ## 🇩🇴 Hecho con pasión en República Dominicana
 
-![Bandera Dominicana](https://github.com/TrabajoConnect/TrabajoConnect/blob/main/assets/bandera.jpg)
+![Bandera Dominicana](https://github.com/TrabajoConnect/trabajo-connect/blob/main/banner-3534015_1280.jpg)
 
 ---
 
