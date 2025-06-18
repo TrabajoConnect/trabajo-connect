@@ -31,7 +31,6 @@ Muchos ciudadanos necesitan servicios técnicos de confianza y no saben a quién
 Somos un equipo comprometido con la transformación social a través de la tecnología. El proyecto está liderado por:
 
 - **Ariel** – Desarrollador y creador del proyecto
-- **Rafael E. Gutiérrez (Guti)** – Mentor y colaborador
 
 Buscamos aliados que compartan nuestra visión y quieran unirse a este esfuerzo de impacto social y digital.
 
